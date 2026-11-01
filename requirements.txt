@@ -1,0 +1,4 @@
+gradio>=6
+google-genai>=1
+yt-dlp>=2024.1.0
+imageio-ffmpeg>=0.5
